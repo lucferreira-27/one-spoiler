@@ -6,11 +6,11 @@ OneSpoilerPage is a React web app that displays the latest chapters and spoilers
 
 ## Features
 
-- [x] Fetches chapter and spoiler data from Reddit using custom APIs
-- [x] Displays a list of chapters and spoilers in a responsive and interactive UI
-- [x] Allows users to sort and filter the chapters by different criteria
-- [x] Uses MUI components and theming system to create a consistent and beautiful design
-- [x] Uses React hooks, memoization, and PropTypes to write clean and performant code
+- [ ] Fetches chapter and spoiler data from Reddit using custom APIs
+- [ ] Displays a list of chapters and spoilers in a responsive and interactive UI
+- [ ] Allows users to sort and filter the chapters by different criteria
+- [ ] Uses MUI components and theming system to create a consistent and beautiful design
+- [ ] Uses React hooks, memoization, and PropTypes to write clean and performant code
 
 
 ## Installation
