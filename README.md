@@ -1,6 +1,6 @@
 # OneSpoilerPage
 
-OneSpoilerPage is a React web app that displays the latest chapters and spoilers of popular manga series from Reddit. Users can sort and filter the chapters by release date, number, or hype level. Users can also view the spoiler details and comments for each chapter in a card component.
+OneSpoilerPage is a React web app that displays the latest chapters and spoilers of popular manga series (One Piece) from Reddit. Users can sort and filter the chapters by release date, number, or hype level. Users can also view the spoiler details and comments for each chapter in a card component.
 
 ![Screenshot of OneSpoilerPage](screenshot.png)
 
